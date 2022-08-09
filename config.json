@@ -1,10 +1,10 @@
 {
-    "token": "AddYourBotTokenHere",
-    "guild": "YourDiscordGuildID",
+    "token": "MTAwNjYzMDg4OTA5NjIyMDgyMw.GtLqZ0.8BD4Xrj5f5_fITPSFaQx8SIe_KjXVnrmYDAhuY",
+    "guild": "959990160257335297",
     "urls": {
         "RobloxGroupInfos": "https://groups.roblox.com/v1/groups/GROUPID"
     },
     "voicechannels": {
-        "RobloxGroupMemberCount": "VoiceChannelID"
+        "RobloxGroupMemberCount": "1006333223955070997"
     }
 }
